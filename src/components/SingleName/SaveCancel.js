@@ -12,7 +12,7 @@ const SaveCancelSwitchContainer = styled('div')`
   display: flex;
   justify-content: flex-end;
   flex-direction: column;
-  felx-wrap: wrap;
+  flex-wrap: wrap;
   align-items: flex-start;
   ${mq.small`
     flex-direction: row;
